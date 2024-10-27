@@ -20,4 +20,4 @@ This is a basic web application built with Node.js and Express.
    
 5. The application will run on http://localhost:3000.
    
-(The live application can be accessed at: http://your-ec2-public-ip)
+(The live application can be accessed at: http://ec2-public-ip)
